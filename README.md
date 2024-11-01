@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi! 👋 I'm Max Pepperdine (no affiliation to Pepperdine University). 
 
 <!--
 **maxpepperdine/maxpepperdine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
