@@ -1,6 +1,8 @@
 <h1 align="center">Hi! 👋 I'm Max Pepperdine (no affiliation to Pepperdine University)</h1>
 
-I graduated summa cum laude from California Polytechnic State University (Cal Poly), San Luis Obispo in June of 2023 with a Bachelor of Science in Environmental Management and Protection. Growing up in Santa Cruz, CA, I was fortunate to be surrounded by incredible ocean and redwood ecosystems. This fostered my admiration and affinity for the natural environment at an early age. Specializing in Conservation Planning at the Bren School with an emphasis in GIS and geospatial analysis, I hope to develop data-driven solutions to today’s critical environmental problems. I have a strong interest in data analysis, geospatial analysis, and GIS and am excited to apply these skills in the field of natural resource management and conservation planning.
+I'm a current master's student in Environmental Science and Management at the Bren School at UC Santa Barbara. Specializing in Conservation Planning with an emphasis in GIS and geospatial analysis, I hope to develop data-driven solutions to today’s critical environmental problems. I have a strong interest in data analysis, geospatial analysis, and GIS and am excited to apply these skills in the field of natural resource management and conservation planning.
+
+I graduated summa cum laude from California Polytechnic State University (Cal Poly), San Luis Obispo in June of 2023 with a Bachelor of Science in Environmental Management and Protection. Growing up in Santa Cruz, CA, I was fortunate to be surrounded by incredible ocean and redwood ecosystems which fostered my admiration and affinity for the natural environment at an early age. Outside of work and school, I enjoy hiking, backpacking, playing disc golf, ocean photography and spending time with friends and family.
 
 <!--
 **maxpepperdine/maxpepperdine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
